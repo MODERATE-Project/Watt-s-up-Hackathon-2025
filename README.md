@@ -7,7 +7,7 @@ Synthetic Data for Buildings** hackathon, held at TU Wien on 22–23 February 20
 🔗 [Hackathon event page](https://events.asc.ac.at/event/173/)
 
 This hackathon was funded by the EU project 
-[MODERATE](https://moderate-project.eu/) (grant No 101069834) and VSC/EuroCC.
+[MODERATE](https://moderate-project.eu/) (grant No 101069834) and [VSC/EuroCC](https://eurocc-austria.at/).
 
 ---
 
