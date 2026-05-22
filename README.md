@@ -17,6 +17,8 @@ Participants worked with a time series dataset of building energy consumption.
 The goal was to generate realistic, GDPR-compliant synthetic data that 
 preserves the statistical properties of the original.
 
+The dataset is based on the publicly available [Smart Meters in London](https://www.kaggle.com/datasets/jeanmidev/smart-meters-in-london) dataset, which contains half-hourly electricity consumption readings from households in London collected between 2011 and 2014.
+
 | File | Description |
 |---|---|
 | `Consumption_data_hourly.csv` | Hourly energy consumption time series for 1,300 buildings covering the full year 2022 (8,760 rows). Semicolon-delimited. The `time` column contains timestamps in `DD.MM.YYYY HH:MM` format; each subsequent column (1–1300) is a building ID with numeric kWh values. |
